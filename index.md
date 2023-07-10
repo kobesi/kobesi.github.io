@@ -1,6 +1,6 @@
 ## 吴思
 
-吴思，男，1990年3月生，中国科学技术大学计算机学院，特任副研究员。2011年7月，于中国科学技术大学计算机学院获得学士学位；2016年7月，于中国科学技术大学计算机学院获得博士学位。2016年8月至2018年12月，于华为公司从事数据库研发。2019年1月至2020年8月，于香港中文大学从事博士后研究。2020年10月至今，加入中国科学技术大学计算机学院。发表CCF A类论文9篇、B类论文5篇，包括TPDS、TCAD、INFOCOM、FAST、SRDS、ICCD、IWQoS、ICPP、DSN等。获得SRDS 2020最佳论文奖。
+吴思，男，1990年3月生，中国科学技术大学计算机学院，特任副研究员。2011年7月，于中国科学技术大学计算机学院获得学士学位；2016年7月，于中国科学技术大学计算机学院获得博士学位。2016年8月至2018年12月，于华为公司从事数据库研发。2019年1月至2020年8月，于香港中文大学从事博士后研究。2020年10月至今，加入中国科学技术大学计算机学院。发表CCF A类论文10篇、B类论文6篇，包括TON、TPDS、TCAD、TC、INFOCOM、FAST、SRDS、ICCD、IWQoS、ICPP、DSN等。获得SRDS 2020最佳论文奖。
 
 邮箱：siwu5938@ustc.edu.cn, siwu5938@gmail.com
 
@@ -8,11 +8,27 @@
 
 ## 发表论文
 
-#### Accepted
+#### 2023
 
-[20] Lulu Yao, Yongkun Li, Fan Guo, **Si Wu**, Yinlong Xu, John C.S. Lui.  
+[24] **Si Wu**, Zhirong Shen, Patrick P. C. Lee, Zhiwei Bai, Yinlong Xu. 
+Elastic Reed-Solomon Codes for Efficient Redundancy Transitioning in Distributed Key-Value Stores. 
+IEEE/ACM Transactions on Networking (TON), 2023. (**CCF A**)
+
+[23] Hao Zhao, **Si Wu***, Haifeng Liu, Zhixiang Tang, Xiaochun He, Yinlong Xu. 
+Toward Optimal Repair and Load Balance in Locally Repairable Codes. 
+52st International Conference on Parallel Processing (ICPP 2023). (**CCF B**)
+
+[22] Lulu Yao, Yongkun Li, Fan Guo, **Si Wu**, Yinlong Xu, John C.S. Lui.  
 Towards High Performance and Efficient Memory Deduplication via Mixed Pages.  
-Accepted for publication in IEEE Transactions on Computers (TC). (**CCF A**)
+IEEE Transactions on Computers (TC), 2023. (**CCF A**)
+
+[21] Zheng Gong, **Si Wu***, Yinlong Xu. 
+Hybrid Fault Tolerance in Distributed In-memory Storage System. 
+Journal of USTC (JUSTC), 2023.
+
+[20] 杜清鹏，许胤龙，**吴思**；
+基于条带配对合并算法的局部可修复码冗余度转换机制，
+计算机科学，2023. （CCF中文期刊B类）
 
 #### 2022
 
