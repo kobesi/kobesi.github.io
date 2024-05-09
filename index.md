@@ -19,61 +19,57 @@
 
 #### 2024
 
-[26] **Si Wu**, Zhirong Shen, Patrick P. C. Lee, Zhiwei Bai, Yinlong Xu. 
+[25] **Si Wu**, Zhirong Shen, Patrick P. C. Lee, Zhiwei Bai, Yinlong Xu. 
 Elastic Reed-Solomon Codes for Efficient Redundancy Transitioning in Distributed Key-Value Stores. 
 IEEE/ACM Transactions on Networking (TON), 2023. (**CCF A**)
 
-[25] **Si Wu**, Guantian Lin, Patrick P. C. Lee, Cheng Li, Yinlong Xu. 
+[24] **Si Wu**, Guantian Lin, Patrick P. C. Lee, Cheng Li, Yinlong Xu. 
 Optimal Wide Stripe Generation in Locally Repairable Codes via Staged Stripe Merging. 
 Proceedings of the 44th IEEE International Conference on Distributed Computing Systems (ICDCS 2024), Jersey City, New Jersey, USA. (**CCF B**)
 
+[23] Zheng Gong, **Si Wu***, Yinlong Xu. 
+Hybrid Fault Tolerance in Distributed In-memory Storage System. 
+Journal of USTC (JUSTC), 2024, 54(4): 0406 doi: 10.52396/JUSTC-2022-0125.
+
 #### 2023
 
-[24] Hao Zhao, **Si Wu***, Haifeng Liu, Zhixiang Tang, Xiaochun He, Yinlong Xu. 
+[22] Hao Zhao, **Si Wu***, Haifeng Liu, Zhixiang Tang, Xiaochun He, Yinlong Xu. 
 Toward Optimal Repair and Load Balance in Locally Repairable Codes. 
 52st International Conference on Parallel Processing (ICPP 2023). (**CCF B**)
 
-[23] Xiyuan Liang, Lulu Yao, **Si Wu***, Yongkun Li, Yinlong Xu. 
+[21] Xiyuan Liang, Lulu Yao, **Si Wu***, Yongkun Li, Yinlong Xu. 
 CARE: A Cost-AwaRe Eviction Strategy for Improving Throughput in Cloud Environments. 
 The 29th IEEE International Conference on Parallel and Distributed Systems (ICPADS 2023), Ocean Flower Island (海花岛), Hainan, China, December 17-21, 2023. (**CCF C**)
 
-[22] Lulu Yao, Yongkun Li, Fan Guo, **Si Wu**, Yinlong Xu, John C.S. Lui.  
+[20] Lulu Yao, Yongkun Li, Fan Guo, **Si Wu**, Yinlong Xu, John C.S. Lui.  
 Towards High Performance and Efficient Memory Deduplication via Mixed Pages.  
 IEEE Transactions on Computers (TC), 2023. (**CCF A**)
 
-[21] Zheng Gong, **Si Wu***, Yinlong Xu. 
-Hybrid Fault Tolerance in Distributed In-memory Storage System. 
-Journal of USTC (JUSTC), 2023.
-
-[20] 杜清鹏，许胤龙，**吴思**；
+[19] 杜清鹏，许胤龙，**吴思**；
 基于条带配对合并算法的局部可修复码冗余度转换机制，
 计算机科学，2023. （CCF中文期刊B类）
 
 #### 2022
 
-[19] **Si Wu**, Qingpeng Du, Patrick P. C. Lee, Yongkun Li, Yinlong Xu.  
+[18] **Si Wu**, Qingpeng Du, Patrick P. C. Lee, Yongkun Li, Yinlong Xu.  
 Optimal Data Placement for Stripe Merging in Locally Repairable Codes.  
 Proceedings of IEEE International Conference on Computer Communications (INFOCOM 2022), May 2022. (**CCF A**)
 
-[18] **Si Wu**, Zhirong Shen, Patrick P. C. Lee, Yinlong Xu.  
+[17] **Si Wu**, Zhirong Shen, Patrick P. C. Lee, Yinlong Xu.  
 Optimal Repair-Scaling Trade-off in Locally Repairable Codes: Analysis and Evaluation.  
 IEEE Transactions on Parallel and Distributed Systems (TPDS), 33(1), pp. 56-69, January 2022. (**CCF A**)
 
-[17] Shuang Ma, **Si Wu***, Cheng Li, Yinlong Xu.  
+[16] Shuang Ma, **Si Wu***, Cheng Li, Yinlong Xu.  
 Repair-Optimal Data Placement for Locally Repairable Codes with Optimal Minimum Hamming Distance.  
 51st International Conference on Parallel Processing (ICPP 2022), August 29th to Sept 1st, 2022, in Bordeaux, France. (**CCF B**)
 
-[16] Qianli Wang, **Si Wu***, Yongkun Li, Yinlong Xu, et al.  
+[15] Qianli Wang, **Si Wu***, Yongkun Li, Yinlong Xu, et al.  
 HPUCache: Toward High Performance and Resource Utilization in Clustered Cache via Data Copying and Instance Merging.  
 Proceedings of IEEE/ACM 30th International Symposium on Quality of Service (IWQoS 2022), Virtual Conference, June 10-12, 2022. (**CCF B**)
 
-[15] Qiang Zhang, Yongkun Li, Patrick P. C. Lee, Yinlong Xu, and **Si Wu**.  
+[14] Qiang Zhang, Yongkun Li, Patrick P. C. Lee, Yinlong Xu, and **Si Wu**.  
 DEPART: Replica Decoupling for Distributed Key-Value Storage.  
 Proceedings of the 20th USENIX Conference on File and Storage Technologies (FAST 2022), Santa Clara, CA, USA, February 22-24, 2022. (**CCF A**)
-
-[14] Meng Wang, **Si Wu**, Yongkun Li, Yinlong Xu.  
-DimageCache: Accelerating Cold Start of Serverless Functions with Distributed Image Caching.  
-2022 International Conference on Artificial Intelligence and Cloud Technology (AICT 2022). (EI)
 
 #### 2020
 
