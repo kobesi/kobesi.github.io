@@ -19,13 +19,13 @@
 
 #### 2024
 
-[22] **Si Wu**, Zhirong Shen, Patrick P. C. Lee, Zhiwei Bai, Yinlong Xu. 
-Elastic Reed-Solomon Codes for Efficient Redundancy Transitioning in Distributed Key-Value Stores. 
-IEEE/ACM Transactions on Networking (TON), 2024. (**CCF A**)
-
-[21] **Si Wu**, Guantian Lin, Patrick P. C. Lee, Cheng Li, Yinlong Xu. 
+[22] **Si Wu**, Guantian Lin, Patrick P. C. Lee, Cheng Li, Yinlong Xu. 
 Optimal Wide Stripe Generation in Locally Repairable Codes via Staged Stripe Merging. 
 Proceedings of the 44th IEEE International Conference on Distributed Computing Systems (ICDCS 2024), Jersey City, New Jersey, USA. (**CCF B**)
+
+[21] **Si Wu**, Zhirong Shen, Patrick P. C. Lee, Zhiwei Bai, Yinlong Xu. 
+Elastic Reed-Solomon Codes for Efficient Redundancy Transitioning in Distributed Key-Value Stores. 
+IEEE/ACM Transactions on Networking (TON), 2024. (**CCF A**)
 
 [20] Zheng Gong, **Si Wu***, Yinlong Xu. 
 Hybrid Fault Tolerance in Distributed In-memory Storage System. 
