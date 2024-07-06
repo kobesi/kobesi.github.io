@@ -13,11 +13,15 @@
   </tr>
 </table>
 
-吴思，男，1990年3月生，现为中国科学技术大学计算机学院的特任副研究员。2011年7月，于中国科学技术大学计算机学院获得学士学位；2016年7月，于中国科学技术大学计算机学院获得博士学位。2016年8月至2018年12月，于华为公司从事数据库研发。2019年1月至2020年8月，于香港中文大学从事博士后研究。2020年10月至今，加入中国科学技术大学计算机学院。发表CCF A类论文10篇、B类论文8篇，包括TON、TPDS、TCAD、TC、INFOCOM、FAST、SRDS、ICDCS、ICCD、IWQoS、ICPP、DSN等。获得SRDS 2020最佳论文奖。
+吴思，男，1990年3月生，现为中国科学技术大学计算机学院的特任副研究员。2011年7月，于中国科学技术大学计算机学院获得学士学位；2016年7月，于中国科学技术大学计算机学院获得博士学位。2016年8月至2018年12月，于华为公司从事数据库研发。2019年1月至2020年8月，于香港中文大学从事博士后研究。2020年10月至今，加入中国科学技术大学计算机学院。发表CCF A类论文10篇、B类论文9篇，包括TON、TPDS、TCAD、TC、INFOCOM、FAST、SRDS、ICDCS、ICCD、IWQoS、ICPP、DSN等。获得SRDS 2020最佳论文奖。
 
 ## 发表论文
 
 #### 2024
+
+[24] Keyun Cheng, **Si Wu***, Xiaolu Li, and Patrick P. C. Lee.
+Harmonizing Repair and Maintenance in LRC-Coded Storage.
+Proceedings of the 43rd International Symposium on Reliable Distributed Systems (SRDS 2024), Charlotte, NC, USA, September 2024. (**CCF B**)
 
 [23] Guantian Lin, **Si Wu***, Cheng Li, Yinlong Xu. 
 Designing Non-uniform Locally Repairable Codes for Wide Stripes under Skewed File Accesses. 
