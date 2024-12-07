@@ -13,14 +13,19 @@
   </tr>
 </table>
 
-吴思，男，1990年3月生，现为山东大学（青岛）计算机科学与技术学院教授/博导、齐鲁青年学者。2011年7月，于中国科学技术大学计算机学院获得学士学位；2016年7月，于中国科学技术大学计算机学院获得博士学位。2016年8月至2018年12月，于华为公司从事数据库研发。2019年1月至2020年8月，于香港中文大学从事博士后研究。2020年10月至2024年6月，于中国科学技术大学计算机学院担任特任副研究员。2024年7月加入山东大学（青岛）计算机学院。发表CCF A类论文11篇、B类论文9篇，包括TON、TPDS、TCAD、TC、INFOCOM、FAST、SRDS、ICDCS、ICCD、IWQoS、ICPP、DSN等。具有较为丰富的分布式系统搭建经验。主持国自然青年项目、安徽省青年项目、中科大青年创新项目、Oppo横向项目等。以第一作者身份获得SRDS 2020最佳论文奖。
+吴思，男，1990年3月生，现为山东大学（青岛）计算机科学与技术学院教授/博导、齐鲁青年学者。2011年7月，于中国科学技术大学计算机学院获得学士学位；2016年7月，于中国科学技术大学计算机学院获得博士学位。2016年8月至2018年12月，于华为公司从事数据库研发。2019年1月至2020年8月，于香港中文大学从事博士后研究。2020年10月至2024年6月，于中国科学技术大学计算机学院担任特任副研究员。2024年7月加入山东大学（青岛）计算机学院。发表CCF A类论文12篇、B类论文9篇，包括TON、TPDS、TCAD、TC、INFOCOM、FAST、SRDS、ICDCS、ICCD、IWQoS、ICPP、DSN等。具有较为丰富的分布式系统搭建经验。主持国自然青年项目、安徽省青年项目、中科大青年创新项目、Oppo横向项目、浪潮项目等。以第一作者身份获得SRDS 2020最佳论文奖。
 
 ## 发表论文
 
-#### Upcoming
+#### 2025
 
-[25] Enabling High Performance and Resource Utilization in Clustered Cache via Hotness Identification, Data Copying, and Instance Merging.
-IEEE Transactions on Computers (TC). (Corresponding) (**CCF A**)
+[26] **Si Wu**, Guantian Lin, Patrick P. C. Lee, Yinlong Xu.
+Leveled Product Codes for Optimal Block Repairs in Geo-distributed Storage Systems.
+Proceedings of IEEE International Conference on Computer Communications (INFOCOM 2025), May 19-22, 2025. (**CCF A**)
+
+[25] Hongmin Li, **Si Wu***, Zhipeng Li, Qianli Wang, Yongkun Li, Yinlong Xu.
+Enabling High Performance and Resource Utilization in Clustered Cache via Hotness Identification, Data Copying, and Instance Merging.
+IEEE Transactions on Computers (TC), 2025. (**CCF A**)
 
 #### 2024
 
