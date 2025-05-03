@@ -39,7 +39,7 @@ IEEE Transactions on Computers (TC), 74(2):371-385, February 2025. (**CCF A**)
 
 [24] Keyun Cheng, **Si Wu***, Xiaolu Li, and Patrick P. C. Lee.
 Harmonizing Repair and Maintenance in LRC-Coded Storage.
-Proceedings of the 43rd International Symposium on Reliable Distributed Systems (SRDS 2024), Charlotte, NC, USA, September 30-October 3 2024. (**CCF B**)
+Proceedings of the 43rd International Symposium on Reliable Distributed Systems (SRDS 2024), Charlotte, NC, USA, September 30-October 3, 2024. (**CCF B**)
 
 [23] Guantian Lin, **Si Wu***, Cheng Li, and Yinlong Xu. 
 Designing Non-uniform Locally Repairable Codes for Wide Stripes under Skewed File Accesses. 
