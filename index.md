@@ -19,7 +19,7 @@
 
 #### 2025
 
-[29] Ximeng Chen, **Si Wu**, Yinlong Xu.
+[29] Ximeng Chen, **Si Wu***, Yinlong Xu.
 Toward Efficient Straggler Tolerance in LRC-coded Storage via Caching Local Parity Blocks.
 High-Confidence Computing (HCC) 2025.
 
