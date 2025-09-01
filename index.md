@@ -19,6 +19,10 @@
 
 #### 2025
 
+[30] Ximeng Chen, **Si Wu***, Hao Zhao, Yinlong Xu.
+Optimal Repair and Load Balance in Locally Repairable Codes: Design and Evaluation.
+Future Generation Computer Systems (FGCS) 2025.
+
 [29] Ximeng Chen, **Si Wu***, Yinlong Xu.
 Toward Efficient Straggler Tolerance in LRC-coded Storage via Caching Local Parity Blocks.
 High-Confidence Computing (HCC) 2025.
