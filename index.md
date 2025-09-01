@@ -33,7 +33,7 @@ IWQoS 2025. (**CCF B**)
 
 [27] Chaoqun Li, Rongsheng Fan, Hesong Wang, Mingda Han, **Si Wu**, Feng Li, and Pengfei Hu.
 TSAJS: Efficient Multi-Server Joint Task Scheduling Scheme for Mobile Edge Computing.
-ICDCS 2025. (**CCF B**)
+ICDCS 2025. (**CCF B**, <font color="red">Best Presentation Award</font>)
 
 [26] **Si Wu**, Guantian Lin, Patrick P. C. Lee, and Yinlong Xu.
 Leveled Product Codes for Optimal Block Repairs in Geo-distributed Storage Systems.
