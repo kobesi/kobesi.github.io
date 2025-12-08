@@ -21,7 +21,7 @@
 
 [31] Hongjing Yu, **Si Wu***, JinYao Liu, Feng Li.
 ROE: Repair-Oriented Encoding for Erasure Codes with Localities.
-IEEE Infocom 2026. (**CCF A**)
+IEEE INFOCOM 2026. (**CCF A**)
 
 #### 2025
 
