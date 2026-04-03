@@ -19,6 +19,10 @@
 
 #### 2026
 
+[34] Jinyao Liu, **Si Wu***, Mingda Han, Tianxing Li, Shuai Bai, Chaoqun Li, Shaowei Li, Pengfei Hu.
+CloudClaw: A Recoverable Execution Substrate for Multi-Tenant LLM Agents.
+The 1st Workshop on Mobile Agentic Systems (AutoSys 2026)
+
 [33] Jinyao Liu, **Si Wu**, Haoyuan Ma, Chaoqun Li, Hongjing Yu, Dingyi Jia, Feng Li and Pengfei Hu.
 BeeQoS: A Cloud-Native QoS System for Adaptive and Scalable Multi-Priority Bandwidth Guarantees.
 ACM WWW 2026 (**CCF A**)
@@ -39,7 +43,7 @@ Future Generation Computer Systems (FGCS) 2025. (**CCF C**)
 
 [29] Ximeng Chen, **Si Wu***, Yinlong Xu.
 Toward Efficient Straggler Tolerance in LRC-coded Storage via Caching Local Parity Blocks.
-High-Confidence Computing (HCC) 2025.
+High-Confidence Computing (HCC) 2025. (**CCF C**)
 
 [28] Shaowei Li, Zhiwen Gan, Jinyao Liu, Chengxi Gao, Fuliang Li, **Si Wu**, Pengfei Hu, and Feng Li.
 ConfAgent: Towards Intelligent Network Configuration via LLM Agent.
