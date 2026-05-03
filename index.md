@@ -19,7 +19,7 @@
 
 #### 2026
 
-[36] Chaoqun Li, Tao Luo, Keyuan Qiu, Jinyao Liu, Xianglong Zhang, Huanle Zhang, Si Wu, Feng Li, Xiuzhen Cheng, Pengfei Hu.
+[36] Chaoqun Li, Tao Luo, Keyuan Qiu, Jinyao Liu, Xianglong Zhang, Huanle Zhang, **Si Wu**, Feng Li, Xiuzhen Cheng, Pengfei Hu.
 FedRFF: Enhanced Federated Random Fourier Feature Framework for IoT Anomaly Detection.
 IEEE ICDCS 2026 (**CCF B**)
 
