@@ -13,11 +13,15 @@
   </tr>
 </table>
 
-吴思，男，1990年3月出生，现为山东大学（青岛校区）计算机科学与技术学院教授/博导、山东大学齐鲁青年学者、山东省泰山学者青年专家。2011年7月，于中国科学技术大学计算机学院获得学士学位；2016年7月，于中国科学技术大学计算机学院获得博士学位。2016年8月至2018年12月，于华为公司从事数据库研发工作。2019年1月至2020年8月，于香港中文大学从事博士后研究。2020年10月至2024年6月，于中国科学技术大学计算机学院担任特任副研究员。2024年7月加入山东大学（青岛）计算机学院。发表CCF A类论文16篇、B类论文11篇，包括TON、TPDS、TC、TCAD、INFOCOM、FAST、SRDS、ICDCS、ICCD、IWQoS、ICPP、DSN等。具有较为丰富的分布式系统搭建经验。主持国自然青年项目、安徽省青年项目、中科大青年创新项目、Oppo横向项目、浪潮云横向项目、山东省科技厅科技中小企业创新能力提升项目等。以第一作者身份获得SRDS 2020最佳论文奖。
+吴思，男，1990年3月出生，现为山东大学（青岛校区）计算机科学与技术学院教授/博导、山东大学齐鲁青年学者、山东省泰山学者青年专家。2011年7月，于中国科学技术大学计算机学院获得学士学位；2016年7月，于中国科学技术大学计算机学院获得博士学位。2016年8月至2018年12月，于华为公司从事数据库研发工作。2019年1月至2020年8月，于香港中文大学从事博士后研究。2020年10月至2024年6月，于中国科学技术大学计算机学院担任特任副研究员。2024年7月加入山东大学（青岛）计算机学院。发表CCF A类论文16篇、B类论文12篇，包括TON、TPDS、TC、TCAD、INFOCOM、FAST、SRDS、ICDCS、ICCD、IWQoS、ICPP、DSN等。具有较为丰富的分布式系统搭建经验。主持国自然青年项目、安徽省青年项目、中科大青年创新项目、Oppo横向项目、浪潮云横向项目、山东省科技厅科技中小企业创新能力提升项目等。以第一作者身份获得SRDS 2020最佳论文奖。
 
 ## 发表论文
 
 #### 2026
+
+[36] Chaoqun Li, Tao Luo, Keyuan Qiu, Jinyao Liu, Xianglong Zhang, Huanle Zhang, Si Wu, Feng Li, Xiuzhen Cheng, Pengfei Hu.
+FedRFF: Enhanced Federated Random Fourier Feature Framework for IoT Anomaly Detection.
+IEEE ICDCS 2026 (**CCF B**)
 
 [35] Jinyao Liu, **Si Wu***, Haoyuan Ma, Chaoqun Li, Shaowei Li, Hongjing Yu, Fengxi Zhou, Feng Li, Xiuzhen Cheng, Pengfei Hu.
 UHM: Unified Transferring and Pooling over Heterogeneous GPU Memories.
