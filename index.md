@@ -19,9 +19,9 @@
 
 #### 2026
 
-[38] Dingyi Jia, Si Wu, Chaoqun Li, Tao Luo, Yubiao Pan, Feng Li, Pengfei Hu.
-FPW: A Fast-Path Write Protocol for Straggler Mitigation in Erasure-Coded Storage.
-The IEEE International Conference on Cluster Computing (IEEE Cluster 2026) (**CCF B**)
+[38] Dingyi Jia, **Si Wu***, Chaoqun Li, Tao Luo, Yubiao Pan, Feng Li, Pengfei Hu.
+"FPW: A Fast-Path Write Protocol for Straggler Mitigation in Erasure-Coded Storage".
+*The IEEE International Conference on Cluster Computing (IEEE Cluster 2026)* (**CCF B**)
 
 [37] Fan Yu, Guodong Li, Si Wu, Weijun Fang, Sihuang Hu.
 Coupling Local and Global Parities for Efficient and Reliable Wide-Stripe Storage Systems.
